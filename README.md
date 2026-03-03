@@ -1,6 +1,6 @@
 # Análise Exploratória do Bitcoin (BTC)
 
-Este projeto realiza uma análise exploratória completa do preço do Bitcoin utilizando Python, com foco em estatística descritiva, análise de risco e comportamento de séries temporais.
+Nesse projeto realizei uma análise exploratória completa do preço do Bitcoin utilizando Python, com foco em estatística descritiva, análise de risco e comportamento de séries temporais.
 
 O objetivo é entender como o ativo se comporta ao longo do tempo, analisando tendência, volatilidade e risco por meio de métricas financeiras amplamente utilizadas.
 
