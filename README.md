@@ -13,7 +13,7 @@ O objetivo é entender como o ativo se comporta ao longo do tempo, analisando te
 - Analisar comportamento do preço ao longo do tempo
 - Calcular retornos diários
 - Estudar a distribuição dos retornos
-- Medir volatilidade com janela móvel (rolling window)
+- Medir volatilidade
 - Avaliar drawdown (queda em relação ao topo histórico)
 - Comparar preço com média móvel para identificar tendências
 
