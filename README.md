@@ -25,7 +25,6 @@ O objetivo é entender como o ativo se comporta ao longo do tempo, analisando te
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Requests
 
 ---
